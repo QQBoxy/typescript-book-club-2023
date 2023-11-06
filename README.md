@@ -1,1 +1,5 @@
-# typescript-book-club-2023
+# TypeScript Book Club 2023
+
+## List
+
+- [Intro - Hello TypeScript](intro-hello-typescript)
