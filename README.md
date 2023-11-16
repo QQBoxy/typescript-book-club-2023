@@ -3,3 +3,4 @@
 ## List
 
 - [Intro - Hello TypeScript](intro-hello-typescript)
+- [Type of object interfaces](basics-type-of-object-interfaces)
